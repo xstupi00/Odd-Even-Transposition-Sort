@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa4f8f93-25cf-4a48-8292-1a10ad64da5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z1gbaL4QAlfgoRUR6YTWPBdtOR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa4f8f93-25cf-4a48-8292-1a10ad64da5e" name="Default Changelist" comment="" />
+      <created>1584012087327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584012087327</updated>
+      <workItem from="1584012092389" duration="6259000" />
+      <workItem from="1584103849695" duration="34891000" />
+      <workItem from="1584180767999" duration="24108000" />
+      <workItem from="1584319226709" duration="1309000" />
+      <workItem from="1585264398971" duration="281000" />
+      <workItem from="1585300683440" duration="15347000" />
+      <workItem from="1585348207973" duration="1761000" />
+      <workItem from="1585906456600" duration="306000" />
+      <workItem from="1585912609843" duration="32000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="182" width="800" height="684" key="#Inspections" timestamp="1584135838019">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="555" y="182" width="800" height="684" key="#Inspections/0.27.1920.987/1920.0.1366.768@0.27.1920.987" timestamp="1584135838019" />
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584135857884">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="418" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.987/1920.0.1366.768@0.27.1920.987" timestamp="1584135857884" />
+    <state x="659" y="325" width="591" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584015854702">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="659" y="325" width="591" height="397" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.987/1920.104.1600.900@0.27.1920.987" timestamp="1584015854702" />
+    <state x="449" y="155" width="1022" height="737" key="SettingsEditor" timestamp="1584012139156">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="449" y="155" width="1022" height="737" key="SettingsEditor/0.27.1920.987/1920.104.1600.900@0.27.1920.987" timestamp="1584012139156" />
+    <state x="616" y="348" key="com.intellij.ide.util.TipDialog" timestamp="1585906456974">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="616" y="348" key="com.intellij.ide.util.TipDialog/0.27.1920.987/1920.0.1366.768@0.27.1920.987" timestamp="1585906456974" />
+    <state x="616" y="348" key="com.intellij.ide.util.TipDialog/0.27.1920.987/1920.104.1600.900@0.27.1920.987" timestamp="1584012092451" />
+    <state x="72" y="109" width="1366" height="696" key="dock-window-1" timestamp="1584145962821">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="72" y="109" width="1366" height="696" key="dock-window-1/0.27.1920.987/1920.0.1366.768@0.27.1920.987" timestamp="1584145962821" />
+    <state x="623" y="242" width="672" height="678" key="search.everywhere.popup" timestamp="1584014349451">
+      <screen x="0" y="27" width="1920" height="987" />
+    </state>
+    <state x="623" y="242" width="672" height="678" key="search.everywhere.popup/0.27.1920.987/1920.104.1600.900@0.27.1920.987" timestamp="1584014349451" />
+  </component>
+</project>
